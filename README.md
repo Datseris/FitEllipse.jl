@@ -6,5 +6,5 @@ A simple Julia package for fitting ellipses to two-dimensional data using ordina
 
 This is not a registered package, to install it do:
 ```julia
-using Pkg; Pkg.add("https://github.com/Datseris/FitEllipse.jl")
+using Pkg; Pkg.add(url="https://github.com/Datseris/FitEllipse.jl")
 ```
