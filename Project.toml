@@ -1,0 +1,13 @@
+name = "FitEllipse"
+uuid = "44ebc1f7-aedc-4692-b086-2c7f26e0e5b0"
+authors = ["George Datseris <datseris.george@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
